@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sudharsan Ganesan
-- 👀 I’m interested in programming in general
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 📫 Reach me at sudharsang45@protonmail.com
 
